@@ -76,7 +76,8 @@ OpenAI APIs, Claude, ChatGPT, Codex
 ## 🌐 Connect
 
 - LinkedIn: https://linkedin.com/in/skshivamkedia  
-- LeetCode: https://leetcode.com/skshivamkedia  
+- LeetCode: https://leetcode.com/skshivamkedia
+- Email: skshivamkedia96@gmail.com 
 
 ---
 
