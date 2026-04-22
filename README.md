@@ -1,57 +1,84 @@
-# Hi there 👋, I'm Shivam
+# Shivam Kedia
 
-🚀 Software Engineer | Backend Developer | System Design Enthusiast  
+Backend Engineer | Distributed Systems | High-Scale Architectures
 
 ---
 
-## 👨‍💻 About Me
+## ⚡ Engineering Focus
 
-- 💼 Backend-focused developer with experience in **Java & Spring Boot**
-- 🔧 Worked on **OMS, inventory systems, and scalable backend architectures**
-- ☁️ Experience with **Google Cloud (App Engine)** and CI/CD pipelines
-- 🔄 Currently exploring **AI in hiring & automation tools**
-- 🎯 Interested in **building products, not just writing code**
+I build backend systems that handle scale, not just features.
+
+- Design **distributed, event-driven systems**
+- Build **high-throughput microservices**
+- Optimize for **latency, reliability, and fault tolerance**
+- Work close to **production systems, debugging, and performance bottlenecks**
+
+---
+
+## 🧠 Core Strengths
+
+- System Design & Distributed Systems  
+- Microservices Architecture  
+- Event-Driven Systems (async workflows, webhooks)  
+- Database & Query Optimization  
+- Caching Strategies (Redis, Memcache)  
+- Production Debugging & Reliability  
 
 ---
 
 ## 🛠️ Tech Stack
 
-**Languages:**
-- Java, PHP, SQL
+**Languages**  
+Java (11/17), C++, SQL
 
-**Frameworks & Tools:**
-- Spring Boot, JPA/Hibernate
-- MySQL
-- Git, GitHub, GitLab
-- REST APIs, Microservices
+**Backend**  
+Spring Boot, Hibernate, REST APIs, Microservices
 
-**Cloud & DevOps:**
-- Google Cloud Platform (GCP)
-- CI/CD (GitHub Actions)
+**Databases & Infra**  
+MySQL, MongoDB, Redis, Memcache, Elasticsearch
 
----
+**Cloud & DevOps**  
+Google Cloud Platform (GCP), CI/CD, Docker (basic), Git
 
-## 📌 What I'm Working On
-
-- 🤖 Building an **AI-powered hiring platform**
-- 🧠 Improving system design & backend scalability skills
-- 🌐 Exploring ways to grow a **tech-driven recruiting business**
+**AI & Developer Tools**  
+OpenAI APIs, Claude, ChatGPT, Codex  
+(used for productivity, automation, and developer workflows)
 
 ---
 
-## 📈 GitHub Stats
+## 🚀 Work Highlights
 
-![Shivam's GitHub stats](https://github-readme-stats.vercel.app/api?username=skshivamkedia&show_icons=true&theme=default)
-
----
-
-## 🌐 Let's Connect
-
-- 💼 LinkedIn: [Your LinkedIn URL]
-- 📫 Email: your-email@example.com
+- Built **scalable backend systems** handling high-volume event flows  
+- Designed **resilient integrations** across external platforms  
+- Reduced latency via **query optimization and caching layers**  
+- Improved **system observability and production debugging**  
 
 ---
 
-## ⚡ Fun Fact
+## 🧩 Projects
 
-I enjoy breaking down complex backend systems and turning them into simple, scalable solutions.
+**Distributed Rate Limiter**  
+- Sliding window algorithm with Redis  
+- Designed for **horizontal scalability & low-latency enforcement**  
+- Ensures fair usage in **high-concurrency environments**
+
+---
+
+## 🏆 Achievements
+
+- 1000+ DSA problems solved (LeetCode, Codeforces)  
+- ACM ICPC Regionalist  
+- Problem Setter (Unacademy, Mercer Mettl)  
+
+---
+
+## 🌐 Connect
+
+- LinkedIn: https://linkedin.com/in/skshivamkedia  
+- LeetCode: https://leetcode.com/skshivamkedia  
+
+---
+
+## 📌 Philosophy
+
+> Good systems don’t just work — they scale, fail gracefully, and recover fast.
