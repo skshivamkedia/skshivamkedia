@@ -1,4 +1,5 @@
-# Shivam Kedia
+# Hey, I'm Shivam 👋  
+### I build backend systems that scale
 
 Backend Engineer | Distributed Systems | High-Scale Architectures
 
