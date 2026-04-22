@@ -35,10 +35,10 @@ Java (11/17), C++, SQL
 Spring Boot, Hibernate, REST APIs, Microservices
 
 **Databases & Infra**  
-MySQL, MongoDB, Redis, Memcache, Elasticsearch
+MySQL, MongoDB, Redis, Memcache, Elasticsearch, Docker
 
 **Cloud & DevOps**  
-Google Cloud Platform (GCP), CI/CD, Docker (basic), Git
+Google Cloud Platform (GCP), CI/CD, Docker (basic), Git, AWS
 
 **AI & Developer Tools**  
 OpenAI APIs, Claude, ChatGPT, Codex  
