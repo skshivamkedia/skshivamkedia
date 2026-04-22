@@ -41,7 +41,7 @@
 
 ## 📈 GitHub Stats
 
-![Shivam's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=default)
+![Shivam's GitHub stats](https://github-readme-stats.vercel.app/api?username=skshivamkedia&show_icons=true&theme=default)
 
 ---
 
